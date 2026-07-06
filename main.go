@@ -1,7 +1,8 @@
-package main
+package jose
 
 import "fmt"
 
-func main() {
+// Dummy function to keep main.go valid in package jose
+func Dummy() {
 	fmt.Println("Hello, Bounty Hunter!")
 }
